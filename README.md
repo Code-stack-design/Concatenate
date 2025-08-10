@@ -18,3 +18,5 @@ A simple program that reads two integer arrays from console input, prints each a
 <img width="815" height="526" alt="image" src="https://github.com/user-attachments/assets/19128b7b-92fe-4cb5-8fc7-25b6a0a4e9bd" />
 
 #Demo video
+
+https://github.com/user-attachments/assets/8a1e3081-83b5-4979-acba-4763a21ce3da
